@@ -55,7 +55,7 @@ The internship focuses on Python programming, data manipulation, visualization, 
 **Basic Data Cleaning System** – Removes `None` values, duplicates, and filters values using pure Python structures.
 
 ### **Folder**
-`month-2/week-2/`
+`month-1/week-2/`
 
 ---
 
