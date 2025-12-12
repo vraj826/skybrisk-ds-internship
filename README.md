@@ -178,3 +178,15 @@ The internship focuses on Python programming, data manipulation, visualization, 
 └── README.md
 
 ```
+
+# ▶️ How to Run Any File
+
+### 1. Install Python 3.8+
+### 2. Install required packages:
+```
+pip install numpy pandas matplotlib seaborn
+```
+### 3. Run any script:
+```
+python filename.py
+```
