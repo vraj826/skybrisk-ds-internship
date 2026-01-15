@@ -127,58 +127,6 @@ The internship focuses on Python programming, data manipulation, visualization, 
 
 ---
 
-# 📂 Repository Structure
-```
-├── month-1/
-|   │
-|   ├── week-1/
-|   │   ├── hands_on_exercises/
-|   │   │   ├── multi_table.py
-|   │   │   ├── odd_even.py
-|   │   │   ├── simple_calc.py
-|   │   │   ├── sum_n_num.py
-|   │   │   ├── temp_converter.py
-|   │   ├── learning_summary_week1.md
-|   │   ├── temperature_analyzer.py                # Week-1 Client Project
-|   │
-|   ├── week-2/
-|   │   ├── hands_on_exercises/
-|   │   │   ├── factorial.py
-|   │   │   ├── max_min.py
-|   │   │   ├── rem_neg_num.py
-|   │   │   ├── unique_ele.py
-|   │   │   ├── word_freq.py
-|   │   ├── learning_summary_week2.md
-|   │   ├── data_cleaning_project.py               # Week-2 Client Project
-|   │
-|   ├── week-3/
-|   │   ├── hands_on_exercises/
-|   │   │   ├── array.py
-|   │   │   ├── array_reshape.py
-|   │   │   ├── dataframe.py
-|   │   │   ├── filter_rows.py
-|   │   │   ├── missing_values.py
-|   │   ├── learning_summary_week3.md
-|   │   ├── dataset_cleaning_pipeline.py           # Week-3 Client Project
-|   │
-|   ├── week-4/
-|   │   ├── hands_on_exercises/
-|   │   │   ├── line_plot.py
-|   │   │   ├── histogram.py
-|   │   │   ├── scatter_plot.py
-|   │   │   ├── seaborn_pairplot.py
-|   │   │   ├── heatmap.py
-|   │   ├── learning_summary_week4.md
-|   │   ├── visualization_dashboard.py             # Week-4 Client Project
-|   │
-├── month-2/
-├── month-3/
-├── .gitignore
-├── LICENSE
-└── README.md
-
-```
-
 # ▶️ How to Run Any File
 
 ### 1. Install Python 3.8+
