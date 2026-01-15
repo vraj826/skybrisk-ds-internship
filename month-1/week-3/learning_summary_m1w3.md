@@ -48,5 +48,23 @@ This project simulates the preprocessing step done before any data analysis or m
 
 ---
 
+### Structure 
+
+```
+├── month-1/
+|   │
+|   ├── week-3/
+|   │   ├── hands_on_exercises/
+|   │   │   ├── array.py
+|   │   │   ├── array_reshape.py
+|   │   │   ├── dataframe.py
+|   │   │   ├── filter_rows.py
+|   │   │   ├── missing_values.py
+|   │   ├── learning_summary_m1w3.md
+|   │   ├── dataset_cleaning_pipeline.py           # Week-3 Client Project
+```
+
+---
+
 ### ✅ Outcome
 By the end of Week 3, I gained confidence in manipulating datasets, cleaning data efficiently, and extracting insights using NumPy and Pandas—key skills in data science.

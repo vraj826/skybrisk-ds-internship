@@ -44,5 +44,23 @@ This mimics real preprocessing steps used in data analysis while staying within 
 
 ---
 
+### Structure 
+
+```
+├── month-1/
+|   │
+|   ├── week-2/
+|   │   ├── hands_on_exercises/
+|   │   │   ├── factorial.py
+|   │   │   ├── max_min.py
+|   │   │   ├── rem_neg_num.py
+|   │   │   ├── unique_ele.py
+|   │   │   ├── word_freq.py
+|   │   ├── learning_summary_m1w2.md
+|   │   ├── data_cleaning_project.py               # Week-2 Client Project
+```
+
+---
+
 ### ✅ Outcome
 By the end of Week 2, I gained stronger control over Python’s built-in data structures, improved my function-writing skills, and learned to create structured cleaning pipelines without external libraries.

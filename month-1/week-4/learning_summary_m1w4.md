@@ -41,5 +41,23 @@ This dashboard helps analyze numeric relationships and distributions in the data
 
 ---
 
+### Structure 
+
+```
+├── month-1/
+|   │
+|   ├── week-4/
+|   │   ├── hands_on_exercises/
+|   │   │   ├── line_plot.py
+|   │   │   ├── histogram.py
+|   │   │   ├── scatter_plot.py
+|   │   │   ├── seaborn_pairplot.py
+|   │   │   ├── heatmap.py
+|   │   ├── learning_summary_m1w44.md
+|   │   ├── visualization_dashboard.py             # Week-4 Client Project
+```
+
+---
+
 ### ✅ Outcome
 By the end of Week 4, I gained confidence in using Matplotlib and Seaborn to create meaningful visualizations, an essential skill in data analysis and reporting.

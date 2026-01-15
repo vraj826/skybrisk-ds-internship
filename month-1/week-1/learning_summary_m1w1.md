@@ -43,6 +43,24 @@ This project improved my skills in handling user input, loops, conditional logic
 
 ---
 
+### Structure 
+
+```
+├── month-1/
+|   │
+|   ├── week-1/
+|   │   ├── hands_on_exercises/
+|   │   │   ├── multi_table.py
+|   │   │   ├── odd_even.py
+|   │   │   ├── simple_calc.py
+|   │   │   ├── sum_n_num.py
+|   │   │   ├── temp_converter.py
+|   │   ├── learning_summary_m1w1.md
+|   │   ├── temperature_analyzer.py                # Week-1 Client Project
+```
+
+---
+
 ### ✅ Outcome
 By the end of Week 1, I gained confidence in:
 
